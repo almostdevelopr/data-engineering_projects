@@ -1,0 +1,11 @@
+Index:
+
+    1. Basics of data models
+        a. what is data model
+        b. why is data modelling important
+        c. who does this type of work
+        d. relational model and database
+        e. ACID properties
+        f. requirements
+    2. Exercise 1 - Creating tables in postgres using python
+    3. Project - Building data model and creating database
